@@ -153,6 +153,8 @@ button {
 .advantages {
     padding: 0 215px;
     margin-top: 94px;
+    
+ 
 
 }
 
@@ -169,15 +171,18 @@ button {
     margin-right: 30px;
     margin-bottom: 10px;
 }
+.advantages-general {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
 
 .advantages li {
     display: inline-block;
     width: 270px;
-    
-}
+   
 
-.advantages-item p  {
-    margin-right: 30px;
 }
 
 .about  {
